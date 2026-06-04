@@ -1,0 +1,6 @@
+{
+  "name": "KayKay's Countdown",
+  "description": "A beautiful, daily-updating countdown and message board for KayKay as she prepares to start her role as Communications Executive at United Bank for Africa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
